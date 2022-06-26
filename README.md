@@ -14,9 +14,9 @@ GamesView é uma aplicação totalmente desenvolvida por mim mesmo(<a href="http
 - Requests
 
 ## Techs Frontend
--- ReactJS
--- Axios
--- css
+- ReactJS
+- Axios
+- css
 
 ## Objetivo:
  <p>O objetivo desse projeto era fazer web scraping de 2 sites de games e retornar os valores em forma de Json, com uma Api Flask,
