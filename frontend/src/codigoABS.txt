@@ -1,0 +1,11 @@
+      <label>
+        <select value={uri} onChange={(e) => {
+          const selectOption = e.target.value;
+          this.setState({ uri: selectOption});
+          
+        }}>
+          <option value=" ">Tudo</option>
+          <option value="epic">Epic</option>
+          <option value="steam">Steam</option>
+        </select>
+      </label>
