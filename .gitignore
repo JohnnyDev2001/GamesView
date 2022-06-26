@@ -1,5 +1,6 @@
 venv/*
 venv
 __pycache__/
-
+__pycache__/epic.cpython-310.pyc
+__pycache__/steam.cpython-310.pyc
 node_modules/
