@@ -6,7 +6,7 @@ url = "https://store.epicgames.com/pt-BR/browse?sortBy=releaseDate&sortDir=DESC&
 
 header = {
     "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-    "Cookie":"EPIC_LOCALE_COOKIE=pt-BR; _epicSID=19d943a5700f43ce811aae0888db9ca9; __cf_bm=HCE97RHU9k2N5KBj9H4BG9.BOgL6gcMP.9fyRk.LM2M-1656277829-0-AT9CLj12tjsbVkiFVGAzXXzI/pDXHLqce5RflIwKT9MNwksL+w13FpNNF7tj5kLkw08pV5JofBdMC2HjYD34KViz4Fo0YgJlVFZV6a2pMQ4FZtGAiuT19ckTpBH4nJ+ny3drEAewj8bkosdajwUvwfdqqXCVR1tDIZx1Q1qiQK+8",
+    "Cookie":"EPIC_LOCALE_COOKIE=pt-BR; _epicSID=19d943a5700f43ce811aae0888db9ca9; __cf_bm=tuF924uvayPPdqg0GLAtonFzriDYW44swnPkP7qasIc-1656280192-0-ASPEA92NgOVtKK0jEh0hTkhYmgdZufFtWO+OcczYPRewJyaDLRKP1FjAy8XTuoPlK5HOm4N5O3fJ7b1zl2ruspIt+3p03AakLTqcvNFBDDyUNG7Z7HO08pINoSdK4EElvybOGufeTNCKFCTyTq2AFvM5eTo9L0M6mxT5m574z7rf",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37"
 }
 
